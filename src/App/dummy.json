@@ -1,0 +1,17 @@
+{
+  "type": "horizontal",
+  "title": ["country", "nationality"],
+  "rows": [
+    ["China", "Ch_n_e_s_"],
+    ["India", "_nd__n"],
+    ["Egypt", "_gypt__n"],
+    ["Saudi Arabia", "S__d_"],
+    ["The United Arab Emirates", "_m_r_t__"],
+    ["Algeria", "_lg_r__n"],
+    ["Japan", "J_p_n_s_"],
+    ["Thailand", "Th___"],
+    ["Turkey", "T__rk_sh"],
+    ["France", "Fr_nch"],
+    ["The United Kingdom", "Br_t_sh"]
+  ]
+}
